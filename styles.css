@@ -1,0 +1,18 @@
+/*añado una imagen desde css al fondo de pantalla*/
+body{
+	background: url(imagenes/imafondo.jpg);
+	background-size:100%;
+}
+
+/*agrego los valores a la tabla de css*/
+.tabla{
+	border: 1px solid;
+	width: 600px;
+	border-collapse: separate;
+	border-spacing: 10px;
+}
+
+.tabla td{
+	border: 1px solid;
+	text-align: center;
+}
